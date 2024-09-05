@@ -5,6 +5,11 @@ theme: readthedocs
 nav:
   - General Information: index.md
 
-# Push Command to Github Pages
+# Publish Command to Github Pages
 # cd site
 # mkdocs gh-deploy --clean
+
+# !!! 注意 !!! 
+# Github Push 只会修改 GitHub 上面的源文件
+# Publish 指令只会修改 gh-pages 上面的网页文件
+# 两者不是一回事
