@@ -24,5 +24,3 @@ Contact Info: cyyipai@connect.ust.hk | 🇭🇰(+852) 67712998 | 🇨🇳(+86) 1
 
 - [MuCSL 实验室](https://mucslab-dev.hkust.edu.hk/)
 - [ARP Control - GitHub Page](https://github.com/Ericc99/RoboticPlatform)
-
-This is just a testing to see if it is working or not

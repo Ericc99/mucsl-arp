@@ -4,3 +4,7 @@ site_author: Eric CUI
 theme: readthedocs
 nav:
   - General Information: index.md
+
+# Push Command to Github Pages
+# cd site
+# mkdocs gh-deploy --clean
