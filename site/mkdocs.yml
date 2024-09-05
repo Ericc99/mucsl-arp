@@ -1,0 +1,6 @@
+site_name: MuCSL Autonomous Robotic Platform Documentations
+site_url: https://github.com/Ericc99/mucsl-arp/
+site_author: Eric CUI
+theme: readthedocs
+nav:
+  - General Information: index.md
